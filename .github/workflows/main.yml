@@ -28,7 +28,7 @@ jobs:
 
           project_name: ${{ github.repository }}
 
-          cx_tenant: malloryCx1
+          cx_tenant: mallorycx1
 
           base_uri: https://ast.checkmarx.net/
 
